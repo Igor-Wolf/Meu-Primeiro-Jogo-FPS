@@ -5,6 +5,8 @@ Esse projeto tem como objetivo a elaboração de um jogo FPS no qual o jogador d
 
 - Devido ao tamanho os arquivos utilizados para sua construção podem ser econtrados aqui: https://mega.nz/folder/tbgT2JDC#d0hx9IYcq07SutFhdBpQRg
 
+### <img src="https://github.com/Igor-Wolf/Meu-Primeiro-Jogo-FPS/blob/main/My%20First%20FPS%20-%20Unity%20Play.png" width="1000">
+
 ## 💡 Features Added
 
 - Jogo Criado com Sucesso
